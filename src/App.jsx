@@ -87,7 +87,7 @@ const PRODUCTS = [
     reviews: 182,
     badge: "Hot Deal",
     isFlashSale: true,
-    image: "https://images.unsplash.com/photo-1622445268465-84385740d7e6?w=800&q=80",
+    image: "https://m.media-amazon.com/images/I/61dvxIzWkEL.jpg",
     description: "15W rapid wireless charging alignment compatible with modern smartphones and earbuds. Includes braided USB-C cable.",
     colors: ["Silver Metallic", "Space Black"]
   }
@@ -293,7 +293,7 @@ export default function App() {
               className="flex items-center gap-2 pl-2 cursor-pointer border-l border-gray-200"
             >
               <img 
-                src="./alex_sharma.png" 
+                src="https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg" 
                 alt="Alex Sharma" 
                 className="w-8 h-8 rounded-full object-cover ring-2 ring-[#3525cd]/20" 
               />
@@ -563,7 +563,7 @@ export default function App() {
             {/* Creative Director Feature */}
             <div className="bg-[#faf8ff] p-6 md:p-8 rounded-2xl border border-gray-200 flex flex-col md:flex-row items-center gap-6">
               <img 
-                src="./alex_sharma.png" 
+                src="https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg" 
                 alt="Alex Sharma" 
                 className="w-24 h-24 rounded-full object-cover ring-4 ring-[#3525cd]/20 shadow-md"
               />
@@ -602,7 +602,7 @@ export default function App() {
           <section className="bg-white rounded-3xl border border-gray-100 p-8 shadow-sm space-y-8">
             <div className="flex flex-col md:flex-row items-center gap-6 pb-6 border-b border-gray-100">
               <img 
-                src="./alex_sharma.png" 
+                src="https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg" 
                 alt="Alex Sharma Profile" 
                 className="w-20 h-20 rounded-full object-cover ring-4 ring-[#3525cd]/20"
               />
