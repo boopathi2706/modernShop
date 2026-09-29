@@ -218,7 +218,7 @@ export default function App() {
             onClick={() => { setCurrentTab('home'); setSelectedCategory('all'); }} 
             className="flex items-center gap-3 cursor-pointer group"
           >
-            <img src="./logo.png" alt="ModernShop Logo" className="h-9 w-auto object-contain transition-transform group-hover:scale-105" />
+            <img src="https://res.cloudinary.com/dogyqzelc/image/upload/v1790695702/logo_wum7un.png" alt="ModernShop Logo" className="h-9 w-auto object-contain transition-transform group-hover:scale-105" />
           
           </div>
 
@@ -845,7 +845,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-4 md:px-8 grid grid-cols-1 md:grid-cols-4 gap-8 pb-8 border-b border-gray-200">
           <div className="space-y-3">
             <div className="flex items-center gap-2">
-              <img src="./logo.png" alt="Logo" className="h-6 w-auto" />
+              <img src="https://res.cloudinary.com/dogyqzelc/image/upload/v1790695702/logo_wum7un.png" alt="Logo" className="h-6 w-auto" />
               <span className="font-display font-bold text-lg text-[#131b2e]">ModernShop</span>
             </div>
             <p className="text-xs text-gray-500 leading-relaxed">
